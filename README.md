@@ -22,14 +22,14 @@ Description of Work
 
 * Creating the infrastructure to manage
   * Virtual machines: routers, switches, clients, servers.
-* Requirements: Bash, Perl, MySql, any other?, (may be revised.)
+* Requirements: Bash, Perl, MySql.
 
 <h3>Frontend Implementation</h3>
 
 * User friendly GUI for management
   * Created topology shown as a figure.
 * User may change topology using the figure. That topology will be saved and may be realized (of course created topology should be checked if it is applicable.).
-* Requirements: PHP, MySql, HTML, CSS 
+* Requirements: PHP, MySQL, HTML, CSS, javascript.
 
 <h3>Documentation & Dissemination</h3>
 
@@ -41,10 +41,10 @@ Skills to be Gained
 -------------------------------
 The following experience is expected to be gained at the end of the project. Having one or more of them already will make the project easier to iterate.
 
-* Linux, BSD knowledge: Package/port management. Writing bash scripts, tools
+* Linux, BSD knowledge: Package/port management. Writing bash scripts, being familiar with the command line tools.
 * Network knowledge: Routing protocols, IPv4/IPv6 address management.
 * Required programming languages and database experience.
-* Virtualization technologies.
+* General knowledge about virtualization technologies.
 
 References
 -------------------------------
