@@ -1,4 +1,4 @@
-rtLabNet (Sanal Lab Ağı)
+VirtLabNet (Sanal Lab Ağı)
 ================================
 
 Giriş 
