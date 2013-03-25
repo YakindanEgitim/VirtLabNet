@@ -50,4 +50,4 @@ Aşağıda belirtilen tecrübenin proje sonunda kazanılacağı öngörülmekted
 Referanslar
 -------------------------------
 
-[1] KOVAN http://www.ipv6.net.tr/kovan/
+[1] KOVAN http://www.ipv6.net.tr/kovan/ .
