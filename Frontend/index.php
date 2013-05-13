@@ -215,9 +215,9 @@
         <link href="css/bootstrap.switch.css" rel="stylesheet">
         <script src="js/bootstrap.switch.min.js"></script>
 		<script>
-    $('#toggle-state-switch-button').on('click', function () {
-        $('#toggle-state-switch').bootstrapSwitch('toggleState');
-    });
+            $('#toggle-state-switch-button').on('click', function () {
+                $('#toggle-state-switch').bootstrapSwitch('toggleState');
+            });
         </script>
 	</body>
 </html>
