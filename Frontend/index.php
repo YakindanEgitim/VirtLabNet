@@ -39,8 +39,8 @@
                                 <th>ID</th>
                                 <th>Node Name</th>
                                 <th>Creation Time</th>
-                                <th>CPU (Mb.)</th>
-                                <th>RAM (Mb.)</th>
+                                <th>(shared)</th>
+                                <th>(shared)</th>
                                 <th>Status</th>
                             </tr>            
                         </thead>
@@ -49,8 +49,8 @@
                                 <td>1</td>
                                 <td>Node 1</td>
                                 <td>1 May 2013 00:00</td>
-                                <td>1024</td>
-                                <td>1024</td>
+                                <td>(shared)</td>
+                                <td>(shared)</td>
                                 <td>
                                     <div class="switch switch-small" data-on-label="<i class='icon-ok icon-white'></i>" data-off-label="<i class='icon-remove'></i>">
                                         <input type="checkbox" checked />
@@ -113,8 +113,8 @@
                                 <th>ID</th>
                                 <th>Node Name</th>
                                 <th>Creation Time</th>
-                                <th>CPU (Mb.)</th>
-                                <th>RAM (Mb.)</th>
+                                <th>(shared)</th>
+                                <th>(shared)</th>
                                 <th>Status</th>
                             </tr>            
                         </thead>
@@ -124,8 +124,8 @@
                                 <td>1</td>
                                 <td>Node 1</td>
                                 <td>1 May 2013 00:00</td>
-                                <td>1024</td>
-                                <td>1024</td>
+                                <td>(shared)</td>
+                                <td>(shared)</td>
                                 <td>
                                     <div class="switch switch-small" data-on-label="<i class='icon-ok icon-white'></i>" data-off-label="<i class='icon-remove'></i>">
                                         <input type="checkbox" checked />
