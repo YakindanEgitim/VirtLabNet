@@ -6,8 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<!-- jquery -->
-		<script src="js/jquery.js"></script>
-		<script src="js/jquery.ready.js"></script>
+		<script src="js/jquery-1.9.1.min.js"></script>
 		
 		<!-- bootstrap CSS/JS kutuphaneleri -->
 		<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -106,7 +105,7 @@
                 <div class="tab-pane" id="tNodes">
                     <h1>Nodes</h1>
                     <h4 class="alert alert-info">Current Nodes</h4>
-                    <button class="btn btn-info" style="float:right; margin-bottom:2px; width:190px"><i class="icon-file"></i> Create new node</button>
+                    <button class="btn btn-info" style="float:right; margin-bottom:2px; width:190px"><i class="icon-file icon-white"></i> Create new node</button>
                     <table class="table table-hover table-bordered table-striped">
                         <thead>
                             <tr>
@@ -153,7 +152,7 @@
                 <div class="tab-pane" id="tNetworks">
                     <h1>Networks</h1>
                     <h4 class="alert alert-info">Current Networks</h4>
-                    <button class="btn btn-info" style="float:right; margin-bottom:2px; width:190px"><i class="icon-file"></i> Create new network</button>
+                    <button class="btn btn-info" style="float:right; margin-bottom:2px; width:190px"><i class="icon-file icon-white"></i> Create new network</button>
                     <table class="table table-hover table-bordered table-striped">
                         <thead>
                             <tr>
